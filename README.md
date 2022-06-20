@@ -1,2 +1,2 @@
 # Profile
-![Github stats](https://github-readmin-stats.vercel.app/api?username=sntdshrly&count_private=true&show_icons&theme-radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sntdshrly&show_icons=true&hide_border=true)
