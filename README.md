@@ -5,9 +5,9 @@
 </p>
 <br>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/sntdshrly">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntdshrly&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="400cm" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntdshrly&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
