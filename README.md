@@ -7,11 +7,9 @@
 
 <p align="left">
 <a href="https://github.com/sntdshrly">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sntdshrly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sntdshrly&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 - <a href="https://id.linkedin.com/in/sherly-santiadi-2723a821a">LinkedIn</a>
 - <a href="https://www.goodreads.com/user/show/142843116-sherly-santiadi">Goodreads</a>
-- sntdshrly@gmail.com
