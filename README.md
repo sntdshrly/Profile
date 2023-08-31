@@ -8,7 +8,7 @@
       :star: This repo is just for fun :star:
    </p>
    <p align="center">
-       <a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="icons/linkedin.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
+       <a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="img/linkedin.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
        <a href="mailto:your-email-address"><img src="icons/email.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
        <a href="https://twitter.com/your-twitter-handle"><img src="icons/twitter.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
    </p>
