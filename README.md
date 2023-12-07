@@ -5,7 +5,7 @@
     
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7EC00&center=true&vCenter=true&width=435&lines=Welcome+to+Sherly's+Github!+%F0%9F%92%9B)](https://git.io/typing-svg)
    <p>
-      :star: This repo is just for fun :star:
+      🌻 I wish you to be happy 🌻
    </p>
    <p align="center">
        <a href="https://id.linkedin.com/in/sherly-santiadi-2723a821a"><img src="img/linkedin.png" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;
